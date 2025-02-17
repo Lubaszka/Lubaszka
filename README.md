@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<!--
-**Lubaszka/Lubaszka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Lubaszka/Lubaszka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
